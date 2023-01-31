@@ -1,1 +1,1 @@
-This is an app that shows how to extract and process text data and sentiment using regex and data processing
+This is an app written in jupyterlab notebooks that shows how to extract and process text data and sentiment using regex and data processing
