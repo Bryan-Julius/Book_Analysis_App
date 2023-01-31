@@ -1,0 +1,1 @@
+This is an app that shows how to extract and process text data and sentiment using regex and data processing
